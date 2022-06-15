@@ -1,0 +1,15 @@
+.ontop {
+    position: fixed;
+    width: 40px;
+    right: 2%;
+    bottom: 80px;
+    height: 40px;
+    font-size: 20px;
+    cursor: pointer;
+    color: var(--orangeC);
+    border: 1px solid #ddd;
+    text-align: center;
+    .fa-angle-up {
+        vertical-align: middle;
+    }
+}
